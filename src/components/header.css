@@ -1,0 +1,45 @@
+.img-header-logo{
+    height: 50px;
+    width: 176px;
+    margin: 20px 24px 20px 36px;
+}
+.img-header-search{
+    width: 24px;
+    height: 24px;
+}
+.cont-img-header{
+    width: 100%;
+}
+.div-login{
+    width:5px; 
+    height: 24px;
+}
+.div-global-header{
+    display: flex;
+    align-items: center;
+}
+.div-search{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 2px 8px;
+    gap: 12px;
+    width: 286px;
+    height: 27px;
+    background: #F5F5F5;
+    border-radius: 20px;
+}
+.input-style{
+    outline: none;
+    border: none;
+    background: #F5F5F5;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #A2A2A2;
+    width: 241px;
+}
