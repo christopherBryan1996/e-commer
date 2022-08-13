@@ -1,0 +1,115 @@
+.div-cont-footer-global{
+    background: #EAF2FD;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-logo-footer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.txt-info{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #464646;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.txt-label-form{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #464646;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.txt-name-send{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #A2A2A2;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.txt-message{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #464646;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.div-txt-autor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.txt-autor{
+    width: 371px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #464646;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.div-cont-name-input{
+    background: white;
+    margin-top: 4px;
+    width: 383px;
+    border-radius: 4px;
+}
+.intput-name-footer{
+    border: none;
+    width: 380px;
+    outline: none;
+}
+.textarea-footer{
+    margin-top: 15px;
+    border: none;
+    outline: none;
+}
+.btn-send-message{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #2A7AE4;
+    width: 122px;
+    height: 44px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-top: 12px;
+}
+.btn-send-message:hover{
+    color: #2A7AE4;
+    background: #FFFFFF;
+}
