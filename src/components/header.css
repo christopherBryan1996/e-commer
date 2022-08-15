@@ -9,6 +9,7 @@
 }
 .cont-img-header{
     width: 100%;
+    margin-bottom: 40px;
 }
 .div-login{
     width:5px; 
@@ -42,4 +43,23 @@
     align-items: center;
     color: #A2A2A2;
     width: 241px;
+}
+.btn-login{
+    display: flex !important;
+    margin-left: 527px;
+    width: 148px;
+    height: 33px;
+    border: 1px solid #2A7AE4;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2A7AE4;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
 }

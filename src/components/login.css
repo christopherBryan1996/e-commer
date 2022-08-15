@@ -1,0 +1,47 @@
+.form-login{
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.txt-email{
+    height: 46px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #464646;
+}
+.input-txt-form{
+    width: 347px;
+    height: 35.13px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #A2A2A2;
+    margin-bottom: 19px;
+}
+.btn-login-init{
+    padding: 12px 16px;
+    gap: 10px;
+    width: 358px;
+    height: 49px;
+    background: #2A7AE4;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0;
+}
